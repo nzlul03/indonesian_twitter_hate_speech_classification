@@ -10,9 +10,9 @@ The labels:
 - HS for "hate-speech" tweet (260).
 
 ### Exploratory Data Analysis
-![image](![image](https://user-images.githubusercontent.com/54148951/196093666-76586d09-1400-4522-a68b-b11716748ceb.png))
+![image](https://user-images.githubusercontent.com/54148951/196093666-76586d09-1400-4522-a68b-b11716748ceb.png)
 
-![image](![image](https://user-images.githubusercontent.com/54148951/196093453-d2f81067-7430-4e0b-a3e9-98b536cfedc2.png))
+![image](https://user-images.githubusercontent.com/54148951/196093453-d2f81067-7430-4e0b-a3e9-98b536cfedc2.png)
 
 ### Data Preprocessing
 Since the dataset is unbalanced, we do over-sampling to create a balanced dataset.
