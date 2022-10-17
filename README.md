@@ -53,7 +53,6 @@ We use 3 classifier:
 * K Nearest Neighbors
 
 ## The Results
-\
 |     Classifier   |   Macro F1    |   Accuracy   |   Recall   |
 |------------------|---------------|--------------|------------|
 |   Random Forest  |     0.93      |     0.93     |    0.94    |
