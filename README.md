@@ -10,7 +10,7 @@ The labels:
 - HS for "hate-speech" tweet (260).
 
 ### Exploratory Data Analysis
-The label distribution:__
+The label distribution:\
 ![image](https://user-images.githubusercontent.com/54148951/196093666-76586d09-1400-4522-a68b-b11716748ceb.png)
 
 Histogram : The distribution of "the text data length".
