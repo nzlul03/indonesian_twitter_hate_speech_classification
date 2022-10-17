@@ -42,6 +42,23 @@ Since the dataset is unbalanced, we do over-sampling to create a balanced datase
 * Stemming : find basic indonesian words from tweet
 
 ## Split Data
+For splitting data, we use train_test_split:
+- Train data = 80%
+- Test data = 20%
+
+## Classification Model
+We use 3 classifier:
+* Random Forest
+* Multinomial Naive Bayes
+* K Nearest Neighbors
+
+## The Results
+\
+|     Classifier   |   Macro F1    |   Accuracy   |   Recall   |
+|------------------|---------------|--------------|------------|
+|   Random Forest  |     0.93      |     0.93     |    0.94    |
+|  Multinomial NB  |     0.85      |     0.85     |    0.86    |
+|       KNN        |     0.81      |     0.81     |    0.83    |
 
 
 ## References
