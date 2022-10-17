@@ -4,8 +4,11 @@
 The Dataset for Hate Speech Detection in Indonesian (https://github.com/ialfina/id-hatespeech-detection).
 
 ### Data Format
-The dataset is a two columns data of: label - tweet.
-The label is Non_HS or HS:
+The dataset consists of two data columns : label - tweet. It consists of 713 tweets in Indonesian.
+The labels:
+- Non_HS for "non-hate-speech" tweet (453).
+- HS for "hate-speech" tweet (260).
 
-- Non_HS for "non-hate-speech" tweet
-- HS for "hate-speech" tweet.
+## References
+Ika Alfina, Rio Mulia, Mohamad Ivan Fanany, and Yudo Ekanata, [_"Hate Speech Detection in Indonesian Language: A Dataset and Preliminary Study
+"_](https://ieeexplore.ieee.org/abstract/document/8355039), in Proceeding of 9th International Conference on Advanced Computer Science and Information Systems 2017(ICACSIS 2017).
